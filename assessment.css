@@ -1,0 +1,16 @@
+body{
+    background-color: #04a6eb; /*16進数のカラーコード。赤・緑・青の順番で色の濃さを数字表記している*/
+    color: #fdffff;
+    width: 500px; /*幅を500ピクセルに設定*/
+    margin-right: auto;　/*右側のマージンを自動調節*/
+    margin-left: auto;
+}
+button{ /*ボタン部分のCSS*/
+    padding: 5px 20px; /*要素の内側（上下・左右の順）の余白の設定*/
+    background-color: #337ab7; /*ボタンの背景色*/
+    color: #fdffff;
+    border-style: none; /*境界線を表示しない*/
+}
+input{ /*入力部分のデザイン*/
+    height: 20px;
+}
